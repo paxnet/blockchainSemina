@@ -4,3 +4,5 @@ test5 remote update
 
 test5 local update
 test5 master update
+
+test5 paxnetInfra update
